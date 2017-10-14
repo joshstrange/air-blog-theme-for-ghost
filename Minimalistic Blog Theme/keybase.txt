@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/joshstrange
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://joshstrange.com
+  * I am joshstrange (https://keybase.io/joshstrange) on keybase.
+  * I have a public key with fingerprint 31A0 80EF C5F1 61CF 5DC6  ADD6 894A 22E4 58B5 B0D3
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101956d1045bbc143a0fa6fe3bddeb6f7e35f00698f1277764beaad72a69232c2880a",
+            "fingerprint": "31a080efc5f161cf5dc6add6894a22e458b5b0d3",
+            "host": "keybase.io",
+            "key_id": "894a22e458b5b0d3",
+            "kid": "0101956d1045bbc143a0fa6fe3bddeb6f7e35f00698f1277764beaad72a69232c2880a",
+            "uid": "82d187109e1a5b3734e4cbc2661f2f00",
+            "username": "joshstrange"
+        },
+        "revoke": {
+            "sig_ids": [
+                "a015a8c7794b5ab461838664165c4eeebb5fe60ec5506e39b56a1a77e99ae85b0f"
+            ]
+        },
+        "service": {
+            "hostname": "joshstrange.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1448397511,
+    "expire_in": 157680000,
+    "prev": "9eb7bb5d596724b438977f453a777697ed4b7946588b45f0f9eea5bd9c4fa5ac",
+    "seqno": 8,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owGtUl1sFUUY3ZafpjUk+NgIJB0wGnNTd3bnb++DD0DVRtKgEYMlN5eZ2W/bbenu
+ZXd7oaEtUm8V1Ifii4gJQUQ0QQOkiWmQPpGgsQFqSNOoJSEgKiYakBiqIcJs0Sd9
+dF4mM3O+851zvhlbtsiqr+usTnTU3x0Zq5u6oayXXvzqyi6kYn8AFXehXljYYJsP
+aVbuDX1URDa2sUeZj21CldKYuNIOJAvAVb4PigUcXBrYNvNEgB3OOSMKpPS5I5nn
+uI52hLAlKqAgjLogqSRhlBlaF0tb2BBoGmCGdUB9zaTvM+ER6ThAqFBU2b5rCrvj
+NK8w4pRMoTWMzZ05lBfk/Qf+f9bd/6CP42PBse0BllS53CVAtNIOYzhwDE0OTCGJ
+ZB8YdE+cdqdZIo1jNFRACVTjXsijTcMuoztFxS1I2phKoTn3iKJSEYaFKxgjmFFN
+AEApGgCzQVNqM3A9RZnEknPwPAnCmA1QyXCbptVQL5DnQf1bQKuO+4y6ShJnsY63
+mcfuLKukRSPsNMoGKjl8B6jy30RlFUa+GZUpqUKShnGEitj00VmYM2NChOtxinEB
+wc5KmEA5zBGUM2GblTeCqqH0QHFjwace4w5RxBUe5wGhrsyz9jj4RBnrjAqhiBlE
+4AGYZH1Pk0BSqVFubXsUo6IooEx2GUoTXiSz/sRk2rSvbsViq67eWrqkPv/DVlPj
+8n8+9kctDfeGn9+4+vihQ+8OXrzEfy98uxG+aZ9+ekXrsw3y6sTBD14++eTs5gv9
+/e8El6b/PLy45fxvJetAQ0f7zPfzp77YumfuhdIbz41uaD42dDx64vTuA3+sp6tm
+j46unR0dnI7mlh9GW6bPbX/vZudq97Ha3jUrz05eG2jZ/PNP1+5M9dw+eTG+VXvm
+l/GhoTPXz6jXhm88ta9TvPXIuc9GLyPx8Nyi5uFHl1zQkz+2T66827NzpKDGfg1W
+zew58t2Xdz4fP7uucf8nbSf6Np14/etPexsfX9pmDU80Tc20bhr/+GDHyF/Ldr/S
+fHlwQ+fa2m3X9ffPH3t1Ho7WjpRqb18vWW0/vG/Nn1+zt/Bmw4cP3Qc=
+=AU5I
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/joshstrange
+
+==================================================================
+
